@@ -14,7 +14,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <header className="text-green-900 p-4">
           <div className="container mx-auto flex justify-between items-center my-5">
             <div className="text-3xl flex items-center font-thin">
-              <Image src="/logo.png" alt="Maiti Labs Logo" width={40} height={40} />
+              <Image src="https://www.maitilabs.org/static/media/Logo.00129f1c05848c338b15.png" alt="Maiti Labs Logo" width={40} height={40} />
               <div className='ml-1'>Maiti Labs</div>
             </div>
             <nav className='poppins-regular text-lg'>
